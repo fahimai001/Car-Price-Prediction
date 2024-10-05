@@ -1,1 +1,2 @@
 # Car-Price-Prediction
+This project involves building a machine learning model to predict the prices of used cars based on various factors such as make, model, year of manufacture, mileage, engine size, and other features. The model uses regression techniques to analyze historical car price data and estimate the selling price of a car. It aims to help users and dealers assess the value of used vehicles, providing data-driven insights for better pricing decisions.
